@@ -1,0 +1,68 @@
+===============================================
+[+] Starting Log Managemnt & Rotation...
+===============================================
+/home/ammaramara/production/manage_logs.sh: line 11: app.log: No such file or directory
+Current Log Size:  Bytes
+/home/ammaramara/production/manage_logs.sh: line 15: [: : integer expression expected
+[OK] log file size is within the safe limit.
+===============================================
+[+] Starting Log Managemnt & Rotation...
+===============================================
+/home/ammaramara/production/manage_logs.sh: line 11: app.log: No such file or directory
+Current Log Size:  Bytes
+/home/ammaramara/production/manage_logs.sh: line 15: [: : integer expression expected
+[OK] log file size is within the safe limit.
+===============================================
+[+] Starting Log Managemnt & Rotation...
+===============================================
+/home/ammaramara/production/manage_logs.sh: line 11: app.log: No such file or directory
+Current Log Size:  Bytes
+/home/ammaramara/production/manage_logs.sh: line 15: [: : integer expression expected
+[OK] log file size is within the safe limit.
+===============================================
+[+] Starting Log Managemnt & Rotation...
+===============================================
+/home/ammaramara/production/manage_logs.sh: line 11: app.log: No such file or directory
+Current Log Size:  Bytes
+/home/ammaramara/production/manage_logs.sh: line 15: [: : integer expression expected
+[OK] log file size is within the safe limit.
+===============================================
+[+] Starting Log Managemnt & Rotation...
+===============================================
+/home/ammaramara/production/manage_logs.sh: line 11: app.log: No such file or directory
+Current Log Size:  Bytes
+/home/ammaramara/production/manage_logs.sh: line 15: [: : integer expression expected
+[OK] log file size is within the safe limit.
+===============================================
+[+] Starting Log Managemnt & Rotation...
+===============================================
+/home/ammaramara/production/manage_logs.sh: line 11: app.log: No such file or directory
+Current Log Size:  Bytes
+/home/ammaramara/production/manage_logs.sh: line 15: [: : integer expression expected
+[OK] log file size is within the safe limit.
+===============================================
+[+] Starting Log Managemnt & Rotation...
+===============================================
+Current Log Size: 46392 Bytes
+[WARNING] Log file exceeded 10240 bytes! Rotating...
+[SUCCESS]Old logs backed up to /home/ammaramara/production/app_backups/app_log_20260609_183001.log and app.log cleared!
+===============================================
+[+] Starting Log Managemnt & Rotation...
+===============================================
+Current Log Size: 0 Bytes
+[OK] log file size is within the safe limit.
+===============================================
+[+] Starting Log Managemnt & Rotation...
+===============================================
+Current Log Size: 0 Bytes
+[OK] log file size is within the safe limit.
+===============================================
+[+] Starting Log Managemnt & Rotation...
+===============================================
+Current Log Size: 0 Bytes
+[OK] log file size is within the safe limit.
+===============================================
+[+] Starting Log Managemnt & Rotation...
+===============================================
+Current Log Size: 0 Bytes
+[OK] log file size is within the safe limit.

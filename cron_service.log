@@ -1,0 +1,482 @@
+/bin/bash: /home/ammaramara/production/self_healing.sh: No such file or directory
+===========================================
+Checking Application Service Status...
+===========================================
+[WARNING] app.js is DOWN! Activating Autostarting...
+[SUCCESS] app.js has been restarted successfully in the background!
+===========================================
+Checking Application Service Status...
+===========================================
+[HEALTHY] app.js is running perfectly with PID: 129
+===========================================
+Checking Application Service Status...
+===========================================
+[HEALTHY] app.js is running perfectly with PID: 129
+===========================================
+Checking Application Service Status...
+===========================================
+[HEALTHY] app.js is running perfectly with PID: 129
+===========================================
+Checking Application Service Status...
+===========================================
+[WARNING] app.js is DOWN! Activating Autostarting...
+[SUCCESS] app.js has been restarted successfully in the background!
+===========================================
+Checking Application Service Status...
+===========================================
+[HEALTHY] app.js is running perfectly with PID: 284
+===========================================
+Checking Application Service Status...
+===========================================
+[HEALTHY] app.js is running perfectly with PID: 284
+===========================================
+Checking Application Service Status...
+===========================================
+[HEALTHY] app.js is running perfectly with PID: 284
+===========================================
+Checking Application Service Status...
+===========================================
+[WARNING] app.js is DOWN! Activating Autostarting...
+[SUCCESS] app.js has been restarted successfully in the background!
+===========================================
+Checking Application Service Status...
+===========================================
+[HEALTHY] app.js is running perfectly with PID: 388
+===========================================
+Checking Application Service Status...
+===========================================
+[HEALTHY] app.js is running perfectly with PID: 388
+===========================================
+Checking Application Service Status...
+===========================================
+[HEALTHY] app.js is running perfectly with PID: 388
+===========================================
+Checking Application Service Status...
+===========================================
+[WARNING] app.js is DOWN! Activating Autostarting...
+[SUCCESS] app.js has been restarted successfully in the background!
+===========================================
+Checking Application Service Status...
+===========================================
+[HEALTHY] app.js is running perfectly with PID: 465
+===========================================
+Checking Application Service Status...
+===========================================
+[HEALTHY] app.js is running perfectly with PID: 465
+===========================================
+Checking Application Service Status...
+===========================================
+[HEALTHY] app.js is running perfectly with PID: 465
+===========================================
+Checking Application Service Status...
+===========================================
+[WARNING] app.js is DOWN! Activating Autostarting...
+[SUCCESS] app.js has been restarted successfully in the background!
+===========================================
+Checking Application Service Status...
+===========================================
+[HEALTHY] app.js is running perfectly with PID: 545
+===========================================
+Checking Application Service Status...
+===========================================
+[HEALTHY] app.js is running perfectly with PID: 545
+===========================================
+Checking Application Service Status...
+===========================================
+[HEALTHY] app.js is running perfectly with PID: 545
+===========================================
+Checking Application Service Status...
+===========================================
+[WARNING] app.js is DOWN! Activating Autostarting...
+[SUCCESS] app.js has been restarted successfully in the background!
+===========================================
+Checking Application Service Status...
+===========================================
+[HEALTHY] app.js is running perfectly with PID: 622
+===========================================
+Checking Application Service Status...
+===========================================
+[HEALTHY] app.js is running perfectly with PID: 622
+===========================================
+Checking Application Service Status...
+===========================================
+[HEALTHY] app.js is running perfectly with PID: 622
+===========================================
+Checking Application Service Status...
+===========================================
+[WARNING] app.js is DOWN! Activating Autostarting...
+[SUCCESS] app.js has been restarted successfully in the background!
+===========================================
+Checking Application Service Status...
+===========================================
+[HEALTHY] app.js is running perfectly with PID: 699
+===========================================
+Checking Application Service Status...
+===========================================
+[HEALTHY] app.js is running perfectly with PID: 699
+===========================================
+Checking Application Service Status...
+===========================================
+[HEALTHY] app.js is running perfectly with PID: 699
+===========================================
+Checking Application Service Status...
+===========================================
+[WARNING] app.js is DOWN! Activating Autostarting...
+[SUCCESS] app.js has been restarted successfully in the background!
+===========================================
+Checking Application Service Status...
+===========================================
+[HEALTHY] app.js is running perfectly with PID: 779
+===========================================
+Checking Application Service Status...
+===========================================
+[HEALTHY] app.js is running perfectly with PID: 779
+===========================================
+Checking Application Service Status...
+===========================================
+[HEALTHY] app.js is running perfectly with PID: 779
+===========================================
+Checking Application Service Status...
+===========================================
+[WARNING] app.js is DOWN! Activating Autostarting...
+[SUCCESS] app.js has been restarted successfully in the background!
+===========================================
+Checking Application Service Status...
+===========================================
+[HEALTHY] app.js is running perfectly with PID: 856
+===========================================
+Checking Application Service Status...
+===========================================
+[HEALTHY] app.js is running perfectly with PID: 856
+===========================================
+Checking Application Service Status...
+===========================================
+[HEALTHY] app.js is running perfectly with PID: 856
+===========================================
+Checking Application Service Status...
+===========================================
+[WARNING] app.js is DOWN! Activating Autostarting...
+[SUCCESS] app.js has been restarted successfully in the background!
+===========================================
+Checking Application Service Status...
+===========================================
+[HEALTHY] app.js is running perfectly with PID: 933
+===========================================
+Checking Application Service Status...
+===========================================
+[HEALTHY] app.js is running perfectly with PID: 933
+===========================================
+Checking Application Service Status...
+===========================================
+[HEALTHY] app.js is running perfectly with PID: 933
+===========================================
+Checking Application Service Status...
+===========================================
+[WARNING] app.js is DOWN! Activating Autostarting...
+[SUCCESS] app.js has been restarted successfully in the background!
+===========================================
+Checking Application Service Status...
+===========================================
+[HEALTHY] app.js is running perfectly with PID: 1013
+===========================================
+Checking Application Service Status...
+===========================================
+[HEALTHY] app.js is running perfectly with PID: 1013
+===========================================
+Checking Application Service Status...
+===========================================
+[HEALTHY] app.js is running perfectly with PID: 1013
+===========================================
+Checking Application Service Status...
+===========================================
+[WARNING] app.js is DOWN! Activating Autostarting...
+[SUCCESS] app.js has been restarted successfully in the background!
+===========================================
+Checking Application Service Status...
+===========================================
+[HEALTHY] app.js is running perfectly with PID: 1090
+===========================================
+Checking Application Service Status...
+===========================================
+[HEALTHY] app.js is running perfectly with PID: 1090
+===========================================
+Checking Application Service Status...
+===========================================
+[HEALTHY] app.js is running perfectly with PID: 1090
+===========================================
+Checking Application Service Status...
+===========================================
+[WARNING] app.js is DOWN! Activating Autostarting...
+[SUCCESS] app.js has been restarted successfully in the background!
+===========================================
+Checking Application Service Status...
+===========================================
+[HEALTHY] app.js is running perfectly with PID: 1167
+===========================================
+Checking Application Service Status...
+===========================================
+[HEALTHY] app.js is running perfectly with PID: 1167
+===========================================
+Checking Application Service Status...
+===========================================
+[HEALTHY] app.js is running perfectly with PID: 1167
+===========================================
+Checking Application Service Status...
+===========================================
+[WARNING] app.js is DOWN! Activating Autostarting...
+[SUCCESS] app.js has been restarted successfully in the background!
+===========================================
+Checking Application Service Status...
+===========================================
+[HEALTHY] app.js is running perfectly with PID: 1247
+===========================================
+Checking Application Service Status...
+===========================================
+[HEALTHY] app.js is running perfectly with PID: 1247
+===========================================
+Checking Application Service Status...
+===========================================
+[HEALTHY] app.js is running perfectly with PID: 1247
+===========================================
+Checking Application Service Status...
+===========================================
+[WARNING] app.js is DOWN! Activating Autostarting...
+[SUCCESS] app.js has been restarted successfully in the background!
+===========================================
+Checking Application Service Status...
+===========================================
+[HEALTHY] app.js is running perfectly with PID: 1324
+===========================================
+Checking Application Service Status...
+===========================================
+[HEALTHY] app.js is running perfectly with PID: 1324
+===========================================
+Checking Application Service Status...
+===========================================
+[HEALTHY] app.js is running perfectly with PID: 1324
+===========================================
+Checking Application Service Status...
+===========================================
+[WARNING] app.js is DOWN! Activating Autostarting...
+[SUCCESS] app.js has been restarted successfully in the background!
+===========================================
+Checking Application Service Status...
+===========================================
+[HEALTHY] app.js is running perfectly with PID: 1401
+===========================================
+Checking Application Service Status...
+===========================================
+[HEALTHY] app.js is running perfectly with PID: 1401
+===========================================
+Checking Application Service Status...
+===========================================
+[HEALTHY] app.js is running perfectly with PID: 1401
+===========================================
+Checking Application Service Status...
+===========================================
+[WARNING] app.js is DOWN! Activating Autostarting...
+[SUCCESS] app.js has been restarted successfully in the background!
+===========================================
+Checking Application Service Status...
+===========================================
+[HEALTHY] app.js is running perfectly with PID: 1481
+===========================================
+Checking Application Service Status...
+===========================================
+[HEALTHY] app.js is running perfectly with PID: 1481
+===========================================
+Checking Application Service Status...
+===========================================
+[HEALTHY] app.js is running perfectly with PID: 1481
+===========================================
+Checking Application Service Status...
+===========================================
+[WARNING] app.js is DOWN! Activating Autostarting...
+[SUCCESS] app.js has been restarted successfully in the background!
+===========================================
+Checking Application Service Status...
+===========================================
+[HEALTHY] app.js is running perfectly with PID: 1558
+===========================================
+Checking Application Service Status...
+===========================================
+[HEALTHY] app.js is running perfectly with PID: 1558
+===========================================
+Checking Application Service Status...
+===========================================
+[HEALTHY] app.js is running perfectly with PID: 1558
+===========================================
+Checking Application Service Status...
+===========================================
+[WARNING] app.js is DOWN! Activating Autostarting...
+[SUCCESS] app.js has been restarted successfully in the background!
+===========================================
+Checking Application Service Status...
+===========================================
+[HEALTHY] app.js is running perfectly with PID: 1640
+===========================================
+Checking Application Service Status...
+===========================================
+[HEALTHY] app.js is running perfectly with PID: 1640
+===========================================
+Checking Application Service Status...
+===========================================
+[HEALTHY] app.js is running perfectly with PID: 1640
+===========================================
+Checking Application Service Status...
+===========================================
+[WARNING] app.js is DOWN! Activating Autostarting...
+[SUCCESS] app.js has been restarted successfully in the background!
+===========================================
+Checking Application Service Status...
+===========================================
+[HEALTHY] app.js is running perfectly with PID: 1720
+===========================================
+Checking Application Service Status...
+===========================================
+[HEALTHY] app.js is running perfectly with PID: 1720
+===========================================
+Checking Application Service Status...
+===========================================
+[HEALTHY] app.js is running perfectly with PID: 1720
+===========================================
+Checking Application Service Status...
+===========================================
+[WARNING] app.js is DOWN! Activating Autostarting...
+[SUCCESS] app.js has been restarted successfully in the background!
+===========================================
+Checking Application Service Status...
+===========================================
+[HEALTHY] app.js is running perfectly with PID: 1797
+===========================================
+Checking Application Service Status...
+===========================================
+[HEALTHY] app.js is running perfectly with PID: 1797
+===========================================
+Checking Application Service Status...
+===========================================
+[HEALTHY] app.js is running perfectly with PID: 1797
+===========================================
+Checking Application Service Status...
+===========================================
+[WARNING] app.js is DOWN! Activating Autostarting...
+[SUCCESS] app.js has been restarted successfully in the background!
+===========================================
+Checking Application Service Status...
+===========================================
+[HEALTHY] app.js is running perfectly with PID: 1874
+===========================================
+Checking Application Service Status...
+===========================================
+[HEALTHY] app.js is running perfectly with PID: 1874
+===========================================
+Checking Application Service Status...
+===========================================
+[HEALTHY] app.js is running perfectly with PID: 1874
+===========================================
+Checking Application Service Status...
+===========================================
+[WARNING] app.js is DOWN! Activating Autostarting...
+[SUCCESS] app.js has been restarted successfully in the background!
+===========================================
+Checking Application Service Status...
+===========================================
+[HEALTHY] app.js is running perfectly with PID: 1954
+===========================================
+Checking Application Service Status...
+===========================================
+[HEALTHY] app.js is running perfectly with PID: 1954
+===========================================
+Checking Application Service Status...
+===========================================
+[HEALTHY] app.js is running perfectly with PID: 1954
+===========================================
+Checking Application Service Status...
+===========================================
+[WARNING] app.js is DOWN! Activating Autostarting...
+[SUCCESS] app.js has been restarted successfully in the background!
+===========================================
+Checking Application Service Status...
+===========================================
+[HEALTHY] app.js is running perfectly with PID: 2031
+===========================================
+Checking Application Service Status...
+===========================================
+[HEALTHY] app.js is running perfectly with PID: 2031
+===========================================
+Checking Application Service Status...
+===========================================
+[HEALTHY] app.js is running perfectly with PID: 2031
+===========================================
+Checking Application Service Status...
+===========================================
+[WARNING] app.js is DOWN! Activating Autostarting...
+[SUCCESS] app.js has been restarted successfully in the background!
+===========================================
+Checking Application Service Status...
+===========================================
+[HEALTHY] app.js is running perfectly with PID: 2108
+===========================================
+Checking Application Service Status...
+===========================================
+[HEALTHY] app.js is running perfectly with PID: 2108
+===========================================
+Checking Application Service Status...
+===========================================
+[HEALTHY] app.js is running perfectly with PID: 2108
+===========================================
+Checking Application Service Status...
+===========================================
+[WARNING] app.js is DOWN! Activating Autostarting...
+[SUCCESS] app.js has been restarted successfully in the background!
+===========================================
+Checking Application Service Status...
+===========================================
+[HEALTHY] app.js is running perfectly with PID: 2188
+===========================================
+Checking Application Service Status...
+===========================================
+[HEALTHY] app.js is running perfectly with PID: 2188
+===========================================
+Checking Application Service Status...
+===========================================
+[HEALTHY] app.js is running perfectly with PID: 2188
+===========================================
+Checking Application Service Status...
+===========================================
+[WARNING] app.js is DOWN! Activating Autostarting...
+[SUCCESS] app.js has been restarted successfully in the background!
+===========================================
+Checking Application Service Status...
+===========================================
+[HEALTHY] app.js is running perfectly with PID: 2265
+===========================================
+Checking Application Service Status...
+===========================================
+[HEALTHY] app.js is running perfectly with PID: 2265
+===========================================
+Checking Application Service Status...
+===========================================
+[HEALTHY] app.js is running perfectly with PID: 2265
+===========================================
+Checking Application Service Status...
+===========================================
+[WARNING] app.js is DOWN! Activating Autostarting...
+[SUCCESS] app.js has been restarted successfully in the background!
+===========================================
+Checking Application Service Status...
+===========================================
+[HEALTHY] app.js is running perfectly with PID: 2345
+===========================================
+Checking Application Service Status...
+===========================================
+[HEALTHY] app.js is running perfectly with PID: 2345
+===========================================
+Checking Application Service Status...
+===========================================
+[HEALTHY] app.js is running perfectly with PID: 2345
+===========================================
+Checking Application Service Status...
+===========================================
+[WARNING] app.js is DOWN! Activating Autostarting...
+[SUCCESS] app.js has been restarted successfully in the background!

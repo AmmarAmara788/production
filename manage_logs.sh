@@ -3,8 +3,8 @@ echo "==============================================="
 echo "[+] Starting Log Managemnt & Rotation..."
 echo "==============================================="
 
-LOG_FILE="app.log"
-BACKUP_DIR="app_backups"
+LOG_FILE="/home/ammaramara/production/app.log"
+BACKUP_DIR="/home/ammaramara/production/app_backups"
 
 MAX_SIZE=10240
 
